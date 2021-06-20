@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on **game development** and **web stuffs**
+- 🔭 I’m currently working on **game development** and **web stuff**
 
 <div align="left">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elton999&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>	
